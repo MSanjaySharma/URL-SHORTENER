@@ -17,7 +17,7 @@ Open the [DOCS](https://github.com/MSanjaySharma/URL-SHORTENER/docs) to try Url 
 
 Contribute to Docs
 
-[![Docs](https://img.shields.io/badge/Contribute-Docs-blue?style=flat&logo=github)](https://github.com/MSanjaySharma/DOCS/URL-SHORTENER)
+[![Docs](https://img.shields.io/badge/Contribute-Docs-blue?style=flat&logo=github)](https://github.com/MSanjaySharma/DOCS/tree/master/URL-SHORTENER)
 
 ---
 
