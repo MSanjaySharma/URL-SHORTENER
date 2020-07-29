@@ -1,0 +1,19 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["url shortener"],
+  "author": "M Sanjay Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.13",
+    "mongoose": "^5.9.25",
+    "shorthash": "0.0.2",
+    "validator": "^13.0.0"
+  }
+}
