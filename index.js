@@ -4,8 +4,9 @@ const port = 3333;
 const helmet = require("helmet");
 const useragent = require("express-useragent");
 
-const configureStore = require("./config/database");
-configureStore();
+const configureDB = require("./config/database");
+
+configureDB();
 
 app.use(helmet());
 app.use(express.json());
